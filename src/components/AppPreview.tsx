@@ -4,7 +4,7 @@ import { Button } from './Button';
 
 export function AppPreview() {
   const handleDownload = () => {
-    window.location.href = 'https://drive.google.com/file/d/10T8e4vYYMGkcXeDBLN-X_JJR4mwczST_/view?usp=drive_link';
+    window.location.href = 'https://drive.google.com/file/d/1hBKngkqDXVmxyrnkw-bpYZaHB2JY7VhZ/view?usp=sharing';
   };
 
   return (
