@@ -29,7 +29,7 @@ export function AppPreview() {
 
           <Button
             variant="primary"
-            className="bg-white text-black text-primary-teal mx-auto animate-bounce hover:bg-white/90"
+            className="bg-white text-black  mx-auto animate-bounce hover:bg-white/90"
             icon={<DollarSign size={20} />}
             onClick={handleDownload}
           >
